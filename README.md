@@ -183,6 +183,15 @@ web: streamlit run app.py --server.port=$PORT --server.address=0.0.0.0
 - **API**: TMDB REST API
 - **ML**: CountVectorizer + Cosine Similarity (content-based filtering)
 
+
+## Author
+
+Habib Rehman Janwiri
+
+Computer Systems Engineering Student
+AI & Machine Learning Enthusiast
+Focus Areas: LLMs, AI Agents, Deep Learning, AGI Systems
+
 ## License
 
-MIT License — free for portfolio and commercial use.
+This project is intended for educational and learning purposes only.
