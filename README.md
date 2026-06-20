@@ -4,7 +4,6 @@ A portfolio-quality, Netflix-inspired movie discovery platform powered by conten
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Features
 
