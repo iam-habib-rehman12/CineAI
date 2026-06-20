@@ -187,9 +187,9 @@ web: streamlit run app.py --server.port=$PORT --server.address=0.0.0.0
 
 Habib Rehman Janwiri
 
-Computer Systems Engineering Student
-AI & Machine Learning Enthusiast
-Focus Areas: LLMs, AI Agents, Deep Learning, AGI Systems
+- Computer Systems Engineering Student
+- AI & Machine Learning Enthusiast
+- Focus Areas: LLMs, AI Agents, Deep Learning, AGI Systems
 
 ## License
 
